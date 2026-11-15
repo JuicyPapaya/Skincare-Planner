@@ -56,15 +56,15 @@ Oily · Combination · Dry · Sensitive
 
 | Home | Onboarding |
 | --- | --- |
-| ![home](img/screenshot-home.png) | ![onboarding](img/screenshot-onboarding.png) |
+| ![home](img/Home.png) | ![onboarding](img/question.png) |
 
 | Routine | Routine (budget summary) |
 | --- | --- |
-| ![routine](img/screenshot-routine-1.png) | ![routine budget](img/screenshot-routine-2.png) |
+| ![routine](img/Rountine1.png) | ![routine budget](img/Rountine2.png) |
 
 | Product check | Product check (result) |
 | --- | --- |
-| ![check](img/screenshot-check-1.png) | ![check result](img/screenshot-check-2.png) |
+| ![check](img/check1.png) | ![check result](img/check2.png) |
 
 ## Built With
 
