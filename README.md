@@ -60,7 +60,7 @@ Oily · Combination · Dry · Sensitive
 
 | Routine | Routine (budget summary) |
 | --- | --- |
-| ![routine](img/Rountine1.png) | ![routine budget](img/Rountine2.png) |
+| ![routine](img/Rountine.png) | ![routine budget](img/Rountine2.png) |
 
 | Product check | Product check (result) |
 | --- | --- |
