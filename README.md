@@ -2,7 +2,7 @@
 
 A skincare planning web app that builds a **basic routine around your skin type and budget**. Answer five questions, check whether a product suits your skin, and see the total cost before you buy.
 
-### ▶️ [Try the app](file:///C:/Users/peerawit/Downloads/indexS.html)
+### ▶️ [Try the app](https://juicypapaya.github.io/Skincare-Planner/)
 
 ---
 
